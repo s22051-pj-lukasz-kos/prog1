@@ -1,3 +1,7 @@
+/*
+Program napisany na lekcji mial na celu jedynie prezentacje typow danych
+*/
+
 #include <iostream>
 
 using namespace std;
@@ -31,7 +35,7 @@ int main()
     cin >> licz2;
 
     wynik = licz1 * licz2;
-
+    cout << "Wynik mno¿enia to " << wynik << endl;
 
     return 0;
 }

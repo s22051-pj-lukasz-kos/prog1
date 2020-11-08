@@ -1,3 +1,9 @@
+/*
+Niedokonczony kalkulator pisany jako ostatnie zadanie
+Nie bylo mozliwosci by go w calosci dokonczyc
+To chyba byl test na prace pod presja :)
+*/
+
 #include <iostream>
 
 using namespace std;
