@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604765643 source:d:\studia\prog1\æwiczenia\drugie æwiczenia\gra1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
