@@ -2,17 +2,19 @@
 Program napisany na lekcji mial na celu jedynie prezentacje typow danych
 */
 
-#include <iostream>
+#include <iostream>     // standardowa biblioteka, która umo¿liwia zastosowanie funkcji cout
 
-using namespace std;
-
+using namespace std;    // taki zapis pozwala na skrocenie zapisu std::cout do samego cout
+                        // tutaj deklarujemy zmienne
 int licz1 = 4;
 int licz2;
 int wynik = 0;
 
-int main()
+int main()              // funkcja main, ktora jest zawsze odpalana w pierwszej kolejnosci
 {
     setlocale(LC_ALL, "Polish");
+
+    // cout to skrot od 'console output', funkcja umozliwia wyswietlanie napisow w konsoli
 
     cout << "wynik = " << wynik << endl;
     wynik = 44 + 888;

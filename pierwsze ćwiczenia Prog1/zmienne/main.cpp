@@ -1,14 +1,16 @@
-#include <iostream>
+#include <iostream>     // standardowa biblioteka, która umożliwia zastosowanie funkcji cout
 
-using namespace std;
+using namespace std;    // taki zapis pozwala na skrocenie zapisu std::cout do samego cout
 
-int main()
-{
-    int zmienna1;
-    float zmienna2;
-    double zmienna3;
-    char zmienna4;
+int main()              // funkcja main, ktora jest zawsze odpalana w pierwszej kolejnosci
+{                       // w taki sposob definiujemy zmienne
+    int zmienna1;       // int od integer, czyli liczby calkowite
+    float zmienna2;     // float, liczby zmiennoprzecinkowe, do 6,7 miejsc po przecinku
+    double zmienna3;    // double czyli podwojne, liczby zmiennoprzecinkowe, do 15, 16 miejsc po przecinku
+    char zmienna4;      // char czyli character, pojedynczy znak, najczesciej litera
     string zmienna5;
+
+    // cout to skrot od 'console output', funkcja umozliwia wyswietlanie napisow w konsoli
 
     cout << "zmienna typu INT: " << zmienna1 << endl;
     cout << "zmienna typu FLOAT: " << zmienna2 << endl;
