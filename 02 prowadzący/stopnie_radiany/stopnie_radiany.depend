@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604755731 source:c:\users\adamm\onedrive\documents\codeblockprojekty\stopnie_radiany\main.cpp
+	<iostream>
+	<cmath>
+

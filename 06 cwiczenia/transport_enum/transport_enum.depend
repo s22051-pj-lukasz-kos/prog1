@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610806576 source:d:\studia\prog1\cwiczenia\prog1_cw\06 cwiczenia\transport_enum\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

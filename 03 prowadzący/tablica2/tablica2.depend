@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605973634 source:c:\users\adamm\onedrive\documents\codeblock115c\tablica1\tablica2\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+

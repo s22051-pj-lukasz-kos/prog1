@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610808428 source:d:\studia\prog1\cwiczenia\prog1_cw\06 cwiczenia\zadanie_44\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

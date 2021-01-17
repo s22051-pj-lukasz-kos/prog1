@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610736897 source:d:\studia\prog1\cwiczenia\proba-4\sortowanie_babelkowe_v2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
